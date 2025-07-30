@@ -70,4 +70,4 @@ I’m focused on strengthening my backend skills and contributing to real-world 
 
 - 📧 Email: [adithyadipb@gmail.com](mailto:adithyadipb@gmail.com)  
 - 🐙 GitHub: [github.com/AdithyaPB-04](https://github.com/AdithyaPB-04)  
-- 💼 LinkedIn: [linkedin.com/in/adithya-pb-59320a2aa](https://linkedin.com/in/adithya-pb-59320a2aa)
+- 💼 LinkedIn: [linkedin.com/in/adithya-pb](https://linkedin.com/in/adithya-pb)
